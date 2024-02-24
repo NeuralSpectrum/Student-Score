@@ -1,0 +1,1 @@
+This project aims at providing basic analytical approach to carryout statistical data analysis using a simple data set comprising of student scores data, which provides an introduction to exploratory data analysis and data visualization.
